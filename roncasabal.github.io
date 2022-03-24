@@ -10,7 +10,7 @@
 	<div class="container">
 	<header>
 		<h1 id="name">Ron Albert M. Casabal</h1>
-		
+		<img src="desktop/ron.jpg" alt="An image of myself" />
 		<div id="designation">
 		
 			<span class="address">Brgy. III, </span>
